@@ -1,0 +1,4 @@
+name: sample
+configuration:
+  environment:
+    BP_KEEP_FILES: "static/*"
